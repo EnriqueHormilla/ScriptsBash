@@ -12,7 +12,7 @@
 # * * * * * /path/to/server_stats.sh
 
 # thingspeak api key for channel that data will be logged to
-api_key='5D906ULWQAMQY3U2'
+api_key='XXXXXXXXXXXXXXX'
 
 #LA CPU ESTA MAL
 #CPU Obtiene el resto de 100 menos el % usado de la cpu para procesos inactivos,es decir cpu libre.
